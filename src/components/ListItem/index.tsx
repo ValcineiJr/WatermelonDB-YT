@@ -60,14 +60,14 @@ const styles = StyleSheet.create({
     margin: 8,
     borderRadius: 12,
     flexDirection: 'row',
-    aligncategoriess: 'center',
+    alignItems: 'center',
   },
   title: { color: '#fff', fontSize: 16 },
   button: { backgroundColor: '#DC3545', padding: 15, borderRadius: 10 },
   button_text: { color: '#fff' },
   buttons: {
     flexDirection: 'row',
-    aligncategoriess: 'center',
+    alignItems: 'center',
   },
 });
 
